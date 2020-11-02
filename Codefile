@@ -5,6 +5,6 @@ if x < 20:
 elif x > 25:
     print('Nice hot weather')
 else:
-    print('it is good outside')
-print('Thank you')
+    print('it is good weather outside')
+print('Thank you for checking')
 
